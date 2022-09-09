@@ -1,0 +1,10 @@
+
+<suite thread-count="1" verbose="1" name="E-commerce portal automation">
+
+    <test name=" portal signup">
+        <classes>
+            <class name="controller.signupcontroller"/>
+        </classes>
+    </test>
+
+</suite>
