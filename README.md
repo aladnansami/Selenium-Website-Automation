@@ -1,5 +1,5 @@
 # Selenium-Website-Automation-Using-Testng & Junit 
-Trying to practice testNG framework for my better improbment. Website is - http://automationpractice.com/  . Here i have done some module automation . 
+Trying to practice testNG framework for my better improbment. Website is - http://automationpractice.com/  . Here i have done some module automation .. 
 
 
 ### Using TestNG and Allore-Reports
