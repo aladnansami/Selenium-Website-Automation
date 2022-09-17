@@ -1,13 +1,18 @@
 # Selenium-Website-Automation-Using-Testng & Junit 
-Trying to practice testNG framework for my better improbment. Website is - http://automationpractice.com/  . Here i have done some module automation .. 
+Trying to practice testNG framework for my better improvement.
+
+### Website
+http://automationpractice.com/  
+- Here i have done some module automation .. 
 
 
-### Using TestNG and Allore-Reports
-### IDEA 
-Intellij IDEA 
-### Langueges 
-JAVA 
-### For Gradle run
+## Tools used :
+- Intellij IDEA
+- Selenium
+- TestNG (As automation testing Framework)
+- Allure(For report Generation)
+
+### Run the Automation Script by the following command:
 ---
 gradle clean 
 ---
@@ -17,4 +22,4 @@ gradle clean
 - Go to any selected folder and open commandline and clon this repo like( git clone repolink)
 - open in intellij idea 
 
-### THANKS
+
